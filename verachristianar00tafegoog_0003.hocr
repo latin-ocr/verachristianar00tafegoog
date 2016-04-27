@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./verachristianar00tafegoog_0003.png"; bbox 0 0 3309 4775; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3089 653 3091 2247">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3089 653 3091 2247">
+     <span class='ocr_line' id='line_1_1' title="bbox 3089 653 3091 2247"><span class='ocrx_word' id='word_1_1' title='bbox 3089 653 3091 2247; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3089 3556 3091 4422">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3089 3556 3091 4422">
+     <span class='ocr_line' id='line_1_2' title="bbox 3089 3556 3091 4422"><span class='ocrx_word' id='word_1_2' title='bbox 3089 3556 3091 4422; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3089 0 3090 502">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3089 0 3090 502">
+     <span class='ocr_line' id='line_1_3' title="bbox 3089 0 3090 502"><span class='ocrx_word' id='word_1_3' title='bbox 3089 0 3090 502; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 3059 2243 3095 3651">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 3059 2243 3095 3651">
+     <span class='ocr_line' id='line_1_4' title="bbox 3059 2243 3095 3651"><span class='ocrx_word' id='word_1_4' title='bbox 3059 2243 3095 3651; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 219 3574 229 3979">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 219 3574 229 3979">
+     <span class='ocr_line' id='line_1_5' title="bbox 219 3574 229 3979; baseline 405 -405"><span class='ocrx_word' id='word_1_5' title='bbox 219 3574 229 3979; x_wconf 34' lang='grc' dir='ltr'>ιμ.ὶὶιι.ῙιἙιιΙΙῘιΡΙ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
